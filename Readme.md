@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Technology Architect
 --------------------
 
-I am working as Cloud/Technology Architect on freelance project
+I am working as Cloud/Technology Architect/ Enterprise Architect on freelance project
 
 * 🌍  I'm based in Lohja, Finland
 * ✉️  You can contact me at [seppo.ihalainen@gmail.com](mailto:seppo.ihalainen@gmail.com)
