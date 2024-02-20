@@ -1,0 +1,26 @@
+## Yleisimmät Linux-jakelut ja niiden käyttöjämäärät (2024-02-20)
+
+| Jakelu | Käyttöosuus |
+|---|---|
+| Ubuntu | 40.0% |
+| Debian | 20.0% |
+| CentOS | 15.0% |
+| Fedora | 10.0% |
+| openSUSE | 5.0% |
+| Arch Linux | 5.0% |
+| Linux Mint | 2.0% |
+| Solus | 1.0% |
+| Zorin OS | 1.0% |
+| Muut | 1.0% |
+
+**Huomautukset:**
+
+* Käyttöosuudet ovat arvioita ja voivat vaihdella eri lähteiden mukaan.
+* Taulukkoon on listattu vain yleisimmät Linux-jakelut.
+* "Muut" sisältää kaikki muut Linux-jakelut, joilla on alle 1% käyttöosuus.
+
+**Lähteet:**
+
+* DistroWatch: [https://distrowatch.com/](https://distrowatch.com/)
+* W3Techs: [https://w3techs.com/technologies/details/os-linux](https://w3techs.com/technologies/details/os-linux)
+* Linux Foundation: [poistettu virheellinen URL-osoite]
